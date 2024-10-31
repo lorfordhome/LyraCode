@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\private\\shootercoreruntimesettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\shootercoreruntimesettings.h",
+            "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\shootercoreruntimesettings.generated.h",
+            "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\shootercoreruntimesettings.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

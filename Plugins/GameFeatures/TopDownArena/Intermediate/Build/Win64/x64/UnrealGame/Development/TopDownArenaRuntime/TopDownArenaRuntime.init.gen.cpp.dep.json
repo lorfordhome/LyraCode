@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealgame\\inc\\topdownarenaruntime\\uht\\topdownarenaruntime.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\x64\\unrealgame\\development\\topdownarenaruntime\\definitions.topdownarenaruntime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

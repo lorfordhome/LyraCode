@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\unrealgame\\inc\\shootertestsruntime\\uht\\shootertestsruntime.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\david\\desktop\\projects\\lyra_5_4-main\\lyra_5_4-main\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\x64\\unrealgame\\development\\shootertestsruntime\\definitions.shootertestsruntime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
